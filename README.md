@@ -6,7 +6,7 @@ This analysis considers only the number of mentions of specific subfields ("cosm
 
 Bases on this figure
 
-![](./results_paired.png)
+![](./plot.png)
 
 
 To-do: extend analysis using LLMs
