@@ -4,7 +4,7 @@
 
 This analysis considers only the number of mentions of specific subfields ("cosmology", "planet", "data", "observational", "gravitational waves", "particle") as reported on the Astro Rumor Mill website. 
 
-Bases on this figure
+Based on the figure below, planetary science has consistently had the highest number of jobs. 
 
 ![](./plot.png)
 
